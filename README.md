@@ -130,3 +130,15 @@ This repository is mainly for **personal learning**, but suggestions and improve
 # 📬 Connect
 
 If you are also practicing DSA or preparing for interviews, feel free to explore the solutions and learn together.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0031-next-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0031-next-permutation) |
+<!---LeetCode Topics End-->
