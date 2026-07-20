@@ -151,6 +151,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0003-longest-substring-without-repeating-characters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
@@ -165,8 +166,10 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
