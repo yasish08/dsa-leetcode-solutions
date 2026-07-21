@@ -136,6 +136,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0031-next-permutation) |
 ## Two Pointers
 |  |
@@ -165,6 +166,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
