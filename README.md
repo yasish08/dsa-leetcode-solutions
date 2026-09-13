@@ -160,6 +160,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0647-palindromic-substrings](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -189,6 +190,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0020-valid-parentheses](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
