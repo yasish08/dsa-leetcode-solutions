@@ -200,4 +200,12 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
