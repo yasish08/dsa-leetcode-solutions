@@ -15,7 +15,7 @@ public:
         double half = myPow(x, N / 2);
 
         if(N % 2 == 0) {
-            return half * half;
+            return half*half;
         }
 
         return x * half * half;
