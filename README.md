@@ -208,4 +208,12 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0050-powx-n) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
