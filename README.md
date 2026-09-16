@@ -214,11 +214,13 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
