@@ -141,6 +141,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0344-reverse-string) |
@@ -211,6 +212,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0707-design-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Design
 |  |
