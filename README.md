@@ -213,6 +213,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0328-odd-even-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Design
 |  |
