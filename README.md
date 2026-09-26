@@ -138,6 +138,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | ------- |
 | [0001-two-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0031-next-permutation) |
+| [1019-next-greater-node-in-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,6 +203,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0143-reorder-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -213,6 +215,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [1019-next-greater-node-in-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
@@ -248,6 +251,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0328-odd-even-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0707-design-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
