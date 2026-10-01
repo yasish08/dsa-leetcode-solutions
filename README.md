@@ -180,6 +180,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0647-palindromic-substrings](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
@@ -301,6 +302,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0111-minimum-depth-of-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0437-path-sum-iii) |
@@ -316,6 +318,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0111-minimum-depth-of-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0437-path-sum-iii) |
@@ -332,6 +335,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0111-minimum-depth-of-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0437-path-sum-iii) |
@@ -349,6 +353,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## String Matching
 |  |
