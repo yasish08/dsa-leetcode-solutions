@@ -137,6 +137,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -144,6 +145,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0061-rotate-list) |
@@ -176,6 +178,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0680-valid-palindrome-ii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
