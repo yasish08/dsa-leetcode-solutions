@@ -138,6 +138,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | ------- |
 | [0001-two-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [1019-next-greater-node-in-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
@@ -180,6 +181,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0647-palindromic-substrings](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Hash Table
@@ -274,6 +276,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0148-sort-list) |
 ## Sorting
 |  |
