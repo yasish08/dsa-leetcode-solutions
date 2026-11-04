@@ -139,6 +139,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0001-two-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0560-subarray-sum-equals-k](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1019-next-greater-node-in-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
@@ -192,6 +193,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0142-linked-list-cycle-ii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -390,4 +392,8 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0113-path-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
