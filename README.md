@@ -169,6 +169,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0020-valid-parentheses](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -198,6 +199,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0049-group-anagrams](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -291,6 +293,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | ------- |
 | [0049-group-anagrams](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Merge Sort
 |  |
 | ------- |
