@@ -141,6 +141,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0031-next-permutation](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0496-next-greater-element-i](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1019-next-greater-node-in-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
@@ -203,6 +204,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0160-intersection-of-two-linked-lists](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -221,6 +223,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0145-binary-tree-postorder-traversal](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -234,6 +237,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
