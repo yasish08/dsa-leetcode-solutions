@@ -334,6 +334,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0145-binary-tree-postorder-traversal](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -377,6 +378,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0145-binary-tree-postorder-traversal](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -420,5 +422,6 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
