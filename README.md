@@ -337,6 +337,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0543-diameter-of-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -379,6 +380,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0543-diameter-of-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -415,4 +417,8 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
