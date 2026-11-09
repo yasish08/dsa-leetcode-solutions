@@ -143,6 +143,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0053-maximum-subarray](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -310,6 +311,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0215-kth-largest-element-in-an-array](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -321,6 +323,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0023-merge-k-sorted-lists](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -439,6 +442,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Quickselect
@@ -454,4 +458,8 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
