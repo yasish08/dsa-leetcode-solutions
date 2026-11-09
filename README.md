@@ -162,6 +162,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0143-reorder-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0295-find-median-from-data-stream](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -290,6 +291,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0707-design-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -310,6 +312,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0148-sort-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Merge Sort
@@ -322,6 +325,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Tournament Sort
@@ -462,4 +466,8 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
