@@ -141,6 +141,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0031-next-permutation](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0200-number-of-islands](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -374,6 +375,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0144-binary-tree-preorder-traversal](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -419,6 +421,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0112-path-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
@@ -467,6 +470,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Data Stream
 |  |
@@ -475,6 +479,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
