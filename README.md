@@ -377,6 +377,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
@@ -418,6 +419,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0112-path-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 ## DP on Trees
@@ -470,4 +472,12 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
