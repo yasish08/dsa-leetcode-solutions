@@ -201,6 +201,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0647-palindromic-substrings) |
@@ -260,6 +261,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | ------- |
 | [0002-add-two-numbers](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
@@ -511,4 +513,8 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
