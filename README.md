@@ -146,6 +146,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0347-top-k-frequent-elements](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -201,6 +202,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | ------- |
 | [0053-maximum-subarray](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
@@ -430,6 +432,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0199-binary-tree-right-side-view](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0733-flood-fill) |
@@ -482,6 +485,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | ------- |
 | [0200-number-of-islands](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Data Stream
