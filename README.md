@@ -138,6 +138,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | ------- |
 | [0001-two-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -157,6 +158,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0061-rotate-list) |
@@ -318,6 +320,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
