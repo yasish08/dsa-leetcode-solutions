@@ -144,6 +144,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0053-maximum-subarray](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0200-number-of-islands](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -231,6 +232,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Stack
@@ -341,6 +343,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -526,4 +529,16 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
