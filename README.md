@@ -147,6 +147,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0283-move-zeroes](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0485-max-consecutive-ones](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
