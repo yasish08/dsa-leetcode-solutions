@@ -157,6 +157,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0974-subarray-sums-divisible-by-k](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1314-matrix-block-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1314-matrix-block-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -476,6 +477,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1314-matrix-block-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1314-matrix-block-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -505,6 +507,7 @@ If you are also practicing DSA or preparing for interviews, feel free to explore
 | [0542-01-matrix](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1314-matrix-block-sum](https://github.com/yasish08/dsa-leetcode-solutions/tree/master/1314-matrix-block-sum) |
 ## Data Stream
 |  |
 | ------- |
